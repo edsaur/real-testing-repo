@@ -1,3 +1,10 @@
 This is a test text file. Over here we could see that the world is round. 
 
 This is a test, don't worry about the things that you can see here. It's perfectly fine.
+
+Hey, this is the new feature:
+Added new characters
+Special Openings
+Blah blah
+
+Lorem Ipsum...
